@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1632440281 source:c:\users\a\documents\facultad\algoritmos 2\tps_practicas\tp1\ttt\tateti\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<typeinfo>
+	<algorithm>
+	<fstream>
+	"Tablero.h"
+
+1632440418 c:\users\a\documents\facultad\algoritmos 2\tps_practicas\tp1\ttt\tateti\tablero.h
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1632440177 source:c:\users\a\documents\facultad\algoritmos 2\tps_practicas\tp1\ttt\tateti\tablero.cpp
+	<cstring>
+	<typeinfo>
+	<algorithm>
+	"Tablero.h"
+
+1632273679 c:\users\a\documents\facultad\algoritmos 2\tps_practicas\tp1\ttt\tateti\allsame.h
+
